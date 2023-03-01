@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 30px solid;
+    border-color: green;
+    border-width: 15%;
+
+}
